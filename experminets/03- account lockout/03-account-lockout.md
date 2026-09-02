@@ -68,8 +68,8 @@ rule.mitre.tactic:					Credential Access, Impact
 									Credential Access
 									(multiple windows logon failures)
 
-rule.mitre.technique:				Brute Force, Account Access Removal	User account		locked out (multiple login errors)
-									Brute Force												multiple windows logon failures
+rule.mitre.technique:				Brute Force, Account Access Removal	User account	locked out (multiple login errors)
+									Brute Force											multiple windows logon failures
 
 data.win.eventdata.targetUserName:	inside_account
 
