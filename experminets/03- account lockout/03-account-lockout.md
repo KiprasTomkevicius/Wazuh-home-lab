@@ -1,7 +1,8 @@
 Date/time: 				2 Sep 2026, ~18:55
-Action: 				Generate failed logon attempts onto the "inside_account"
-Expected result: 			After 10 attempts within 10 minutes the account should should be locked out and the expected result is a
-					log being generated about the account being locked out
+
+Action: Generate failed logon attempts onto the "inside_account"
+
+Expected result: After 10 attempts within 10 minutes the account should should be locked out and the expected result is alog being generated about the account being locked out
 
 Observed Result: 			after 6th logon attempt windows forced delay before next attempt
 					after another 5 tries the logon screen is put into anopther delay before presenting the message "The referenced account is currently locked out and may not be logged on to."
