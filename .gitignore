@@ -1,0 +1,14 @@
+# Private notes / credentials
+labsetup personal.md
+
+# Virtual machine files
+*.vdi
+*.vbox
+*.vbox-prev
+*.sav
+*.ova
+*.iso
+
+# Windows junk
+Thumbs.db
+Desktop.ini
