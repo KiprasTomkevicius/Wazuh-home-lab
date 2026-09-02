@@ -2,7 +2,7 @@
 Date/time: 			2 Sep 2026, ~13:47
 Action: 			Attempted windows login with correct and incorrect credentials.
 Expected result: 		Logon attempt to be logged by wazuh agent, generating logs for failed attempts
-Observed Result: 		placeholder
+Observed Result: 		
 
 data.win.system.eventID : 	4625
 data.win.system.message: 	Account For Which Logon Failed:

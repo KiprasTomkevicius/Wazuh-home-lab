@@ -7,7 +7,7 @@ experiments:
 
 01-local-account-creation		: creating an account on a local windows 11 machine and seeing what logs are generated:		 	Completed
 02-failed-logon				: generating failed log on attempts using an incorrect password via a local windows machine:		Completed
-03-account-lockout			:
+03-account-lockout			: Repeated failed login attempts until the account is locked out					Completed
 04-permission-privilege-change		:
 05-denied-vs-allowed-file-access	:
 06-elevation-standard-user		:
