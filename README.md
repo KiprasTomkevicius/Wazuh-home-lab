@@ -8,7 +8,7 @@ This lab is for personal learning use, trying to learn how to use SIEM, security
 - **01-local-account-creation** — Creating an account on a local Windows 11 machine and observing generated logs. **Completed**
 - **02-failed-logon** — Generating failed logon attempts using an incorrect password on a local Windows machine. **Completed**
 - **03-account-lockout** — Repeated failed login attempts until the account is locked out. **Completed**
-- **04-permission-privilege-change** — Planned
+- **04-permission-privilege-change** — Generating log events by changing the privileges of an existing local account.
 - **05-denied-vs-allowed-file-access** — Planned
 - **06-elevation-standard-user** — Planned
 - **07-elevation-privileged-user** — Planned
