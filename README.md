@@ -11,8 +11,8 @@ Part 1
 - **02-failed-logon** — Generating failed logon attempts using an incorrect password on a local Windows machine. **Completed**
 - **03-account-lockout** — Repeated failed login attempts until the account is locked out. **Completed**
 - **04-permission-privilege-change** — Generating log events by changing the privileges of an existing local account. **Completed**
-- **05-denied-vs-allowed-file-access** — Generating log events by having an account try to access files without having the access to do so. **Planned**
-- **06-standard-user-elevation** — Attempting to run a process with elevated privileges from a standard user account and observing generated logs. **Planned**
+- **05-denied-vs-allowed-file-access** — Generating log events by having an account try to access files without having the access to do so. **Half Completed**
+- **06-standard-user-elevation** — Attempting to run a process with elevated privileges from a standard user account and observing generated logs. **Completed**
 - **07-admin-user-elevation** — Running a process with elevated privileges from an administrator account and observing generated logs. **Planned**
 
 
